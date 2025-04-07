@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
-    "build": "^0.1.4",
+    "build": "npm run build",
     "start": "next start"
   },
   "dependencies": {
